@@ -19,7 +19,7 @@ The working app can be found at https://msteams-video-mse.netlify.app/.
 * Switch ON/OFF camera.
 * Join a meeting with a unique meeting ID.
 * Share code via Whatsapp/ email.
-
+* Change in video size when second user joins.
   
 ## Technologies used
 
